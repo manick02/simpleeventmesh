@@ -4,6 +4,7 @@
     <groupId>simple-eventmesh</groupId>
     <artifactId>simple-eventmesh</artifactId>
     <version>1.0.0</version>
+    <packaging>pom</packaging>
     <modules>
         <module>eventmesh-server</module>
     </modules>
