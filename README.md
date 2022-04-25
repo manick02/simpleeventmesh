@@ -11,7 +11,16 @@ If services are connected to different event broker we need an architecture laye
 across event Brokers. These Event Brokers may be geographically separated or may be separated by different cloud providers
 Architecture layer which connects different broker services is called mesh. 
 
-### Conditions to be met for the solution to be accepted
+### Precise Conditions to be met for the solution to be accepted
+ List of Brokers participating or collaborating is known
+ Parties connect only to their Broker
+ Parties state their interest which they are producing or consuming to the broker
+ Brokers act on behalf of the Parties to forward or receive events.
+ 
+
+ 
+ 
+
 
 
 ## Requirement 
