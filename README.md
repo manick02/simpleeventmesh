@@ -16,7 +16,7 @@ Architecture layer which connects different broker services is called mesh.
  Parties connect only to their Broker
  Parties state their interest which they are producing or consuming to the broker
  Brokers act on behalf of the Parties to forward or receive events.
- 
+ ### NEED to understand different region networking limitations to update the precise conditions
 
  
  
