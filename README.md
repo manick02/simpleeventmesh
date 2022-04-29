@@ -16,11 +16,13 @@ Architecture layer which connects different broker services is called mesh.
  Parties connect only to their Broker
  Parties state their interest which they are producing or consuming to the broker
  Brokers act on behalf of the Parties to forward or receive events.
- ### NEED to understand different region networking limitations to update the precise conditions
+ 
+### NEED to understand different region networking limitations to update the precise conditions
   Do we need gateway at the network boundary of each of the region or data center?
-  
- 
- 
+  #### ASSUMPTION
+  I could not establish the limitation apart from the fact that it would require an accessible endpoint either available publicly or via VPC
+  To make meaningful progress I would make the above assumption
+
 
 
 
