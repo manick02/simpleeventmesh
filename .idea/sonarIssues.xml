@@ -8,6 +8,16 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../sdk-java/api/src/test/java/io/serverlessworkflow/api/test/MarkupToWorkflowTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../sdk-java/api/src/test/java/io/serverlessworkflow/api/test/WorkflowToMarkupTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../sdk-java/pom.xml">
           <value>
             <set />
@@ -29,6 +39,16 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/eventmesh-server/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/eventmesh-server/src/main/java/io/Startup.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/eventmesh-server/src/main/java/io/em/Startup.java">
           <value>
             <set />
           </value>
