@@ -5,9 +5,6 @@
     <artifactId>eventmesh-server</artifactId>
     <packaging>pom</packaging>
     <version>1.0.0</version>
-    <modules>
-        <module>eventmesh-connector</module>
-    </modules>
     <parent>
         <groupId>simple-eventmesh</groupId>
         <artifactId>simple-eventmesh</artifactId>

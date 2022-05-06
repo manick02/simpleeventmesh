@@ -19,7 +19,7 @@ public interface Consumer {
      * Subscribes to topic
      * @param tppic
      */
-    void subscribe(String[] tppic);
+    void subscribe(String[] tppic, EventProcessor eventProcessor);
 
     /**
      * Gets ConsumerState

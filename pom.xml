@@ -11,6 +11,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>eventmesh-server</module>
+        <module>eventmesh-connector</module>
     </modules>
     <dependencies>
 
