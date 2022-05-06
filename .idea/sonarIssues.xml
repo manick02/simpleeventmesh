@@ -8,6 +8,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../incubator-eventmesh/eventmesh-connector-plugin/eventmesh-connector-rocketmq/src/main/java/org/apache/eventmesh/connector/rocketmq/consumer/PushConsumerImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../sdk-java/api/src/test/java/io/serverlessworkflow/api/test/MarkupToWorkflowTest.java">
           <value>
             <set />
@@ -38,6 +43,31 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/eventmesh-server/eventmesh-connector/.gitignore">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/eventmesh-server/eventmesh-connector/src/main/java/io/em/connector/Bridge.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/eventmesh-server/eventmesh-connector/src/main/java/io/em/connector/Consumer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/eventmesh-server/eventmesh-connector/src/main/java/io/em/connector/ConsumerState.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/eventmesh-server/eventmesh-connector/src/main/java/io/em/connector/Publisher.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/eventmesh-server/pom.xml">
           <value>
             <set />
@@ -54,6 +84,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../strimzi-kafka-bridge/src/test/java/io/strimzi/kafka/bridge/http/services/ConsumerService.java">
           <value>
             <set />
           </value>
