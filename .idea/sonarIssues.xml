@@ -58,6 +58,36 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/eventmesh-connector/src/main/java/io/em/connector/EventProcessor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/eventmesh-connector/target/classes/io/em/connector/Consumer.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/eventmesh-connector/target/classes/io/em/connector/ConsumerState.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/eventmesh-connector/target/classes/io/em/connector/Publisher.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/eventmesh-connector/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/eventmesh-connector/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/eventmesh-server/eventmesh-connector/.gitignore">
           <value>
             <set />
@@ -104,6 +134,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../strimzi-kafka-bridge/src/test/java/io/strimzi/kafka/bridge/http/services/ConsumerService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/a.dummy">
           <value>
             <set />
           </value>
