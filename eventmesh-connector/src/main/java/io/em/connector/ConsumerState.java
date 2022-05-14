@@ -5,5 +5,6 @@ public enum ConsumerState {
     Initialized,
     Subscribed,
     UnSubscribed,
+    Paused,
     Stopped
 }

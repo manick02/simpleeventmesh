@@ -48,7 +48,17 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/eventmesh-connector/src/main/java/io/em/connector/Bridge.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/eventmesh-connector/src/main/java/io/em/connector/Consumer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/eventmesh-connector/src/main/java/io/em/connector/ConsumerState.java">
           <value>
             <set />
           </value>
@@ -59,6 +69,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/eventmesh-connector/src/main/java/io/em/connector/EventProcessor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/eventmesh-connector/src/main/java/io/em/connector/Producer.java">
           <value>
             <set />
           </value>
